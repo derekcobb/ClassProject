@@ -5,7 +5,7 @@
 ## Date: August 12, 2019
 
 ----------------------------------------------------------------------------------------------
-Project Step 9
+Project Step 6
 USE CASE: Wedding Help
 
 Actors: Customers and vendors
