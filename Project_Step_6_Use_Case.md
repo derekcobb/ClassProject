@@ -1,8 +1,8 @@
-##Name: Project Step 6
+## Name: Project Step 6
 
-##Author: Derek Cobb
+## Author: Derek Cobb
 
-##Date: August 12, 2019
+## Date: August 12, 2019
 
 ----------------------------------------------------------------------------------------------
 Project Step 9
