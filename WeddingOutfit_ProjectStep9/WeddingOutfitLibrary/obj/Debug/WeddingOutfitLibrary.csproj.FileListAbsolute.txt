@@ -1,0 +1,6 @@
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\bin\Debug\WeddingOutfitLibrary.dll
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\bin\Debug\WeddingOutfitLibrary.pdb
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csprojAssemblyReference.cache
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.dll
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\bin\Debug\WeddingUI.exe.config
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\bin\Debug\WeddingUI.exe
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\bin\Debug\WeddingUI.pdb
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.csprojAssemblyReference.cache
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.CreateCustomerAccountForm.resources
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.Properties.Resources.resources
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.csproj.GenerateResource.cache
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.csproj.CoreCompileInputs.cache
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.exe
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.pdb
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\bin\Debug\WeddingOutfitLibrary.dll
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\bin\Debug\WeddingOutfitLibrary.pdb
+C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingUI\obj\Debug\WeddingUI.csproj.CopyComplete
