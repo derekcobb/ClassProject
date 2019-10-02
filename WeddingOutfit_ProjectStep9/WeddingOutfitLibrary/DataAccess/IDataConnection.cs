@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using WeddingOutfitLibrary.Models;
 
-namespace WeddingOutfitLibrary
+namespace WeddingOutfitLibrary.DataAccess
 {
     public interface IDataConnection
     {

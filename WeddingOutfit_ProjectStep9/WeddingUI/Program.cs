@@ -16,8 +16,12 @@ namespace WeddingUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+
+            //Initialize the database connections
             WeddingOutfitLibrary.GlobalConfig.InitializeConnections(true, true);
             Application.Run(new CreateCustomerAccountForm());
+
+            //Application.Run(new TournamentDashboardForm());
         }
     }
 }

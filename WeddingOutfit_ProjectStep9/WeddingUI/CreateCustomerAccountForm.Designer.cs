@@ -210,6 +210,7 @@
             this.Controls.Add(this.createCustomerAcccountLabel);
             this.Name = "CreateCustomerAccountForm";
             this.Text = "Create Customer Account";
+            this.Load += new System.EventHandler(this.CreateCustomerAccountForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

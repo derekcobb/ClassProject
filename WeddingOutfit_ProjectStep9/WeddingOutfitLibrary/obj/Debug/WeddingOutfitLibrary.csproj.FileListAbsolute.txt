@@ -4,3 +4,12 @@ C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\
 C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csproj.CoreCompileInputs.cache
 C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.dll
 C:\Users\verit\ApplicationPractice\WeddingOutfit\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.pdb
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\bin\Debug\WeddingOutfitLibrary.dll
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\bin\Debug\WeddingOutfitLibrary.pdb
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\bin\Debug\Dapper.dll
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\bin\Debug\Dapper.xml
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csprojAssemblyReference.cache
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csproj.CoreCompileInputs.cache
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.csproj.CopyComplete
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.dll
+C:\Users\verit\ClassProject\WeddingOutfit_ProjectStep9\WeddingOutfitLibrary\obj\Debug\WeddingOutfitLibrary.pdb

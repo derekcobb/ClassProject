@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using WeddingOutfitLibrary;
+using WeddingOutfitLibrary.DataAccess;
 using WeddingOutfitLibrary.Models;
 
 namespace WeddingUI
@@ -114,6 +115,11 @@ namespace WeddingUI
             }
 
             return output;
+        }
+
+        private void CreateCustomerAccountForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
